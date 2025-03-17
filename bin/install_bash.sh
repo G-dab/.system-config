@@ -1,0 +1,1 @@
+source ~/.system-config/Shell/.bashrc
